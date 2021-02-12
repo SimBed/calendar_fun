@@ -18,6 +18,10 @@
   border: 1px solid black;
   text-align: center;
   font-size: 30px;
+  max-width:100%;
+  overflow: auto;
+/*  overflow: scroll;*/
+/*  overflow: visible;*/
 }
 
 .grid-container .cal_days {
